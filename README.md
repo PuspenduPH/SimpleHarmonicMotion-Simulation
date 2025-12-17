@@ -30,6 +30,8 @@ A comprehensive Python-based interactive study of **Simple Harmonic Motion (SHM)
 - **Visuals**: time‑series, phase‑space (x, v), and energy diagnostics to interpret conservative motion, damped decay, and driven steady state.
 - **Resonance**: displacement peaks at $f_r=f_0\sqrt{1-2\zeta^2}$ (if $\zeta<1/\sqrt{2}$); velocity and power peak at $f_0$.
 
+
+
 | **Damped Pendulum** | **Mass-Spring-Damper** |
 |---|---|
 | <img src="OUTPUTS/ANIMATIONS/multi_pendulum_L1.0_theta20deg_gamma0.00_0.25_0.50_5periods.gif" alt="Pendulum Animation" width="78%"/> | <img src="OUTPUTS/ANIMATIONS/multi_damping_m1.0_k2.0_c0.0_c0.25_c0.5_c1.0.gif" alt="Mass-Spring-Damper Animation" width="100%"/> |
