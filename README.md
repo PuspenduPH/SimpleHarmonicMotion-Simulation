@@ -30,7 +30,7 @@ A comprehensive Python-based interactive study of **Simple Harmonic Motion (SHM)
 - **Visuals**: time‑series, phase‑space (x, v), and energy diagnostics to interpret conservative motion, damped decay, and driven steady state.
 - **Resonance**: displacement peaks at $f_r=f_0\sqrt{1-2\zeta^2}$ (if $\zeta<1/\sqrt{2}$); velocity and power peak at $f_0$.
 
-
+---
 
 | **Damped Pendulum** | **Mass-Spring-Damper** |
 |---|---|
@@ -70,7 +70,7 @@ A comprehensive Python-based interactive study of **Simple Harmonic Motion (SHM)
 ### Pendulum Motion
 
 #### Undamped Pendulum with Large Amplitude
-<img src="OUTPUTS/ANIMATIONS/pendulum_L1.0_theta20deg_5rev.gif" alt="Undamped Pendulum Animation" width="40%"/>
+<img src="OUTPUTS/ANIMATIONS/pendulum_L1.0_theta20deg_5rev.gif" alt="Undamped Pendulum Animation" width="50%"/>
 
 #### Damped vs Undamped Comparison
 <img src="OUTPUTS/ANIMATIONS/multi_pendulum_L1.0_theta20deg_gamma0.00_0.25_0.50_5periods.gif" width="50%"/>
@@ -78,15 +78,15 @@ A comprehensive Python-based interactive study of **Simple Harmonic Motion (SHM)
 ### Mass-Spring-Damper System
 
 #### Multiple Damping Regimes
-<img src="OUTPUTS/ANIMATIONS/multi_damping_m1.0_k2.0_c0.0_c0.25_c0.5_c1.0.gif" width="60%"/>
+<img src="OUTPUTS/ANIMATIONS/multi_damping_m1.0_k2.0_c0.0_c0.25_c0.5_c1.0.gif" width="80%"/>
 
 #### Complete System Analysis
 
-<img src="OUTPUTS/ANIMATIONS/multi_damping_m1.0_k5.0_c0.0_c0.5_c4.472_c5.0.gif" width="60%"/>
+<img src="OUTPUTS/ANIMATIONS/multi_damping_m1.0_k5.0_c0.0_c0.5_c4.472_c5.0.gif" width="80%"/>
 
 #### Phase Space Trajectories
 
-<img src="OUTPUTS/PLOTS/phase_space_free_oscillation_m1.0_k10.0_c0.0_c1.265_c6.325_c12.649.png" width="60%"/>
+<img src="OUTPUTS/PLOTS/phase_space_free_oscillation_m1.0_k10.0_c0.0_c1.265_c6.325_c12.649.png" width="80%"/>
 
 ---
 
@@ -320,17 +320,16 @@ plt.show()
 
 ### Example 2: Energy Dissipation in Damped System
 
-<img src="OUTPUTS/PLOTS/energy_evolution_free_oscillation_m1.0_k10.0_c0.0_c1.15_c6.325_c8.45.png" width="60%"/>
+<img src="OUTPUTS/PLOTS/energy_evolution_free_oscillation_m1.0_k10.0_c0.0_c1.15_c6.325_c8.45.png" width="80%"/>
 
 ### Example 3: Resonance Phenomenon
-<img src="OUTPUTS/ANIMATIONS/resonance_analysis_m1.0_k10.0_c0_c2.0_c2.0_c2.0.gif" width="60%"/>
+<img src="OUTPUTS/ANIMATIONS/resonance_analysis_m1.0_k10.0_c0_c2.0_c2.0_c2.0.gif" width="80%"/>
 
-<img src = "OUTPUTS/PLOTS/frequency_response_m1.0_k5.0_c0.00_0.45_0.50_1.00_1.25_3.00_4.47_5.00.png" width="60%"/>
+<img src = "OUTPUTS/PLOTS/frequency_response_m1.0_k5.0_c0.00_0.45_0.50_1.00_1.25_3.00_4.47_5.00.png" width="80%"/>
 
 ### Example 4: Phase Space and Energy Analysis
 
-<img src="OUTPUTS/PLOTS/phase_energy_m1.0_k10.0_c1.90.png" width="60%"/>
-
+<img src="OUTPUTS/PLOTS/phase_energy_m1.0_k10.0_c1.90.png" width="80%"/>
 ---
 
 ## 🎓 Educational Applications
