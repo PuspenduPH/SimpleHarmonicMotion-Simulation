@@ -330,6 +330,7 @@ plt.show()
 ### Example 4: Phase Space and Energy Analysis
 
 <img src="OUTPUTS/PLOTS/phase_energy_m1.0_k10.0_c1.90.png" width="80%"/>
+
 ---
 
 ## 🎓 Educational Applications
